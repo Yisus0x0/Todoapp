@@ -28,6 +28,9 @@ Este es una app web hecha con React.js sobre una lista de tareas que incluye:
 
 ![image]https://github.com/Yisus0x0/Todoapp/blob/main/Screenshot%202024-08-01%20193458.png
 
+## Enlace del Video
+		https://miucateciedu-my.sharepoint.com/:v:/g/personal/20210915_miucateci_edu_do/EdlGscEPUx5GnNjIfCQlVq8B3Osgz9VVqpqjuKGtvDhtZA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=HdAUCW
+
 
 
 
