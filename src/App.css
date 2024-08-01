@@ -1,0 +1,83 @@
+.App {
+  text-align: center;
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+h1 {
+  color: #333;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 20px;
+}
+
+input[type="text"], textarea {
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+textarea {
+  height: 100px;
+}
+
+button {
+  padding: 10px;
+  background-color: #1E90FF; /* Color azul */
+  color: white;
+  border: none;
+  cursor: pointer;
+  border-radius: 4px;
+  margin-right: 5px;
+}
+
+.filters {
+  margin-bottom: 20px;
+}
+
+.filters button {
+  background-color: #FFA500; /* Color naranja */
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  padding: 10px 0;
+  border-bottom: 1px solid #ccc;
+  text-align: left;
+}
+
+li div {
+  flex-grow: 1;
+  margin-right: 20px;
+}
+
+li h3 {
+  margin: 0 0 10px 0;
+  display: flex;
+  align-items: center;
+}
+
+li h3 input[type="checkbox"] {
+  margin-right: 10px;
+}
+
+li p {
+  margin: 0;
+  color: #666;
+}
+
+li button {
+  background-color: #FF6347; /* Color rojo tomate */
+}

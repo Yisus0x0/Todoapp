@@ -1,0 +1,12 @@
+import React from 'react';
+import TodoItem from '../molecules/TodoItem';
+
+const TodoList = ({ todos, onToggle, onDelete }) => (
+  <ul>
+    {todos.map(todo => (
+      <TodoItem key={todo.id} todo={todo} onToggle={onToggle} onDelete={onDelete} />
+    ))}
+  </ul>
+);
+
+export default TodoList;
